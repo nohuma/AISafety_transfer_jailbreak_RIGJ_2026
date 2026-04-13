@@ -57,6 +57,10 @@ optimization progress
 intermediate adversarial tokens
 training statistics
 ```
+Results will be saved to:
+```
+./results/
+```
 
 
 
